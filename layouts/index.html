@@ -1,0 +1,98 @@
+{{ define "main" }}
+  <article class="mw8 center ph3 ph4-ns pv5">
+    {{ $aboutPage := site.GetPage "/about" }}
+
+    {{ with $aboutPage }}
+      <section class="mb5">
+        <div class="bt b--black-10 pt4">
+          <article class="bb b--black-10">
+            <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+              <div class="flex-column flex-row-ns flex items-start">
+                <div class="w-100 w-30-l mb4 mb0-l pr5-l">
+                  <img
+                    src="/images/profile_photo.png"
+                    alt="Portrait of Zilong Ji"
+                    class="db w-100 br3 shadow-4"
+                  >
+                </div>
+                <div class="blah w-100 w-70-l">
+                  <h2 class="f3 fw1 athelas mt0 lh-title">
+                    <a href="{{ .RelPermalink }}" class="color-inherit dim link">
+                      {{ .Title }}
+                    </a>
+                  </h2>
+                  <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+                    {{ .Summary }}
+                  </div>
+                  <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+                </div>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+    {{ end }}
+
+    {{ with .Params.news }}
+      <section class="mb4">
+        <div class="bt b--black-10 pt4">
+          <h2 class="f3 tracked ttu sans-serif mid-gray mt0 mb4">News</h2>
+          <div class="mid-gray">
+            {{ range . }}
+              <div class="flex-l items-baseline mb3 pb3 bb b--black-05">
+                <div class="w-20-l w-100 sans-serif tracked ttu dark-gray mb2 mb0-l">
+                  {{ .date }}
+                </div>
+                <div class="w-80-l w-100 serif f5 lh-title">
+                  {{ .text | markdownify }}
+                </div>
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </section>
+    {{ end }}
+
+    {{ $publicationsPage := site.GetPage "/publications" }}
+    {{ with $publicationsPage.Params.featured_publications }}
+      <section class="mb5 mt5">
+        <div class="bt b--black-10 pt4">
+          <div class="flex-l items-center justify-between mb4">
+            <h2 class="f3 tracked ttu sans-serif mid-gray mt0 mb0">Featured Publications</h2>
+            <a href="/publications/" class="link dark-blue underline f5">See all publications</a>
+          </div>
+          {{ range . }}
+            {{ $featured := . }}
+            <div class="mb5 pb4 bb b--black-05">
+              <div class="flex-l items-start">
+                {{ with .image }}
+                  <div class="w-30-l w-100 mb4 mb0-l pr3-l">
+                    <img
+                      src="{{ . }}"
+                      alt="{{ $featured.title }}"
+                      class="db w-100 br3 shadow-4"
+                      {{ with $featured.image_width }}style="max-width: {{ . }};"{{ end }}
+                    >
+                  </div>
+                {{ end }}
+                <div class="{{ if .image }}w-70-l{{ else }}w-100{{ end }} w-100">
+                  <h3 class="f4 f3-ns athelas mt0 mb2 black lh-title">{{ .title }}</h3>
+                  <p class="f5 serif mid-gray mt0 mb2 lh-title">
+                    {{ .authors | markdownify }}
+                  </p>
+                  <p class="f5 serif mid-gray mt0 mb3 lh-title">
+                    {{ .venue | markdownify }}
+                  </p>
+                  <p class="f5 mt0 mb0">
+                    {{ with .pdf }}<a href="{{ . }}" class="link dark-blue underline mr3">PDF</a>{{ end }}
+                    {{ with .code }}<a href="{{ . }}" class="link dark-blue underline">Code</a>{{ end }}
+                  </p>
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
+  </article>
+{{ end }}

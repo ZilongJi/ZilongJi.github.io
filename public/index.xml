@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zilong Ji</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Zilong Ji</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;computational-modelling&#34;&gt;Computational modelling&lt;/h2&gt;&#xA;&lt;p&gt;I develop computational models to understand how the brain supports spatial navigation, episodic memory. Recently, I built a biophysical &lt;a href=&#34;https://www.cell.com/current-biology/fulltext/S0960-9822(24)01174-6?uuid=uuid%3A47a8abd3-bd6d-4c23-a93c-e7f26e5af58e&#34;&gt;model&lt;/a&gt; of the parasubiculum–entorhinal microcircuit and modelled the generation of left–right theta sweeps recently discovered in the brain (&lt;a href=&#34;https://www.nature.com/articles/s41586-024-08527-1&#34;&gt;Vollan et al, 2025&lt;/a&gt;). This model led to the discovery of two interesting phenomena in the brain. One was the finding of &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/hipo.70008&#34;&gt;theta phase coding in directional tuning cells in the anteroventral thalamus nuclei (AVN)&lt;/a&gt;, and the other was the finding of &lt;a href=&#34;https://www.biorxiv.org/content/10.64898/2026.03.08.710351v1.article-metrics&#34;&gt;a gradient of theta-sweep angle along the dorsoventral axis in medial entorhinal cortex&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am currently a postdoctoral researcher working with &lt;a href=&#34;https://www.ucl.ac.uk/brain-sciences/icn/research/research-groups/space-memory&#34;&gt;Neil Burgess&lt;/a&gt; at UCL. I completed my PhD in computational neuroscience and deep learning at Beijing Normal University under the supervision of &lt;a href=&#34;https://www.psy.pku.edu.cn/english/people/faculty/professor/wusi/index.htm&#34;&gt;Si Wu&lt;/a&gt;. Before that, I received a BA in Applied Mathematics from Xiamen University. In 2021, I moved to UCL for postdoctoral training.&lt;/p&gt;&#xA;&lt;p&gt;My current research focuses on developing computational models of spatial navigation and episodic memory in both rodents and humans, with the aim of understanding how the brain encodes, retrieves, and consolidates memories, and how it uses memories to guide flexible behaviour. I am also developing a two-photon imaging system to take pictures of mouse hippocampus while the animal navigates in a two-dimensional virtual reality environment. This allows me to address research questions through direct access to neural activity in the brain. Moreover, I study how the algorithms performed by the brain can inspire the development of more advanced artificial neural networks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;You can view or download my CV here:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/files/ZilongJi_CV.pdf&#34;&gt;Download CV&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

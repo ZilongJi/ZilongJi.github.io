@@ -1,0 +1,39 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="page-about mw8 center ph3 ph4-ns pv5">
+    <header class="mb5">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+        {{ .Site.Title }}
+      </aside>
+      <h1 class="f2 f1-ns athelas mt3 mb2">
+        {{ .Title }}
+      </h1>
+      {{ if not .Date.IsZero }}
+        <time class="f6 dib tracked gray" {{ fmt.Printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safe.HTMLAttr }}>
+          {{ .Date | time.Format (compare.Default "January 2, 2006" .Site.Params.date_format) }}
+        </time>
+      {{ end }}
+    </header>
+
+    <section class="flex-l items-start">
+      {{ with .Params.profile_image }}
+        <div class="w-30-l w-100 mb4 mb0-l pr5-l">
+          <img
+            src="{{ . }}"
+            alt="{{ $.Params.profile_image_alt | default $.Site.Title }}"
+            class="db w-100 mw5 center br3 shadow-4"
+          >
+        </div>
+      {{ end }}
+
+      <div class="w-70-l w-100">
+        <div class="nested-copy-line-height lh-copy serif f3 mid-gray">
+          {{ .Content }}
+        </div>
+      </div>
+    </section>
+  </article>
+{{ end }}

@@ -1,0 +1,35 @@
+---
+title: "Zilong Ji"
+date: 2026-03-21
+draft: false
+news:
+  - date: "2026-03"
+    text: "4 posters presented at Cosyne 2026."
+  - date: "2026-02"
+    text: "Talk at Gordon Research Seminar (GRS) \"Thalamocortical Networks in Sensation, Behavior, and Disease\", Lucca, Italy"
+  - date: "2026-01"
+    text: "[Paper](https://www.nature.com/articles/s41467-026-68453-w) accepted by *Nature Communications*. Collaboration with [Chaoming Wang](https://www.gdiist.cn/en/research/team_detail/83)." 
+  - date: "2025-12"
+    text: "[Paper](https://www.nature.com/articles/s41467-025-68042-3) accepted by *Nature Communications*."
+  - date: "2025-12"
+    text: "Talk at the conference \"Exploring the frontiers of brain science and brain-inspired intelligence\", at Chinese Institute of Brain Research (CIBR), Beijing, China" 
+  - date: "2025-10"
+    text: "Talk at the Sainsbury Wellcome Centre, London, UK"  
+  - date: "2025-08"
+    text: "1 poster presented at CCN 2026. Collaboration with Callum Marshall."  
+  - date: "2025-07"
+    text: "Together with [Jesse Geerts](https://jessegeerts.github.io/about/), [Sadra Sadeh](https://sadehlab.com/) and [Caswell Barry](https://barry-lab.com/), we (UCL NeurAI) got £4,000 support from the Crick Networking Fund!"      
+  - date: "2025-06"
+    text: "Talk at the Gerald Choa Neuroscience Institute(GCNI) Rising Stars Symposium, Hongkong, China" 
+  - date: "2025-02"
+    text: "[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hipo.70008) accepted by *Hippocampus*."  
+  - date: "2024-08"
+    text: "[Paper](https://www.cell.com/current-biology/fulltext/S0960-9822(24)01174-6?uuid=uuid%3A47a8abd3-bd6d-4c23-a93c-e7f26e5af58e) accepted by *Current Biology*. An accompanying commentary is available [here](https://www.cell.com/current-biology/fulltext/S0960-9822(24)01228-4)." 
+  - date: "2024-01"
+    text: "[Paper](https://elifesciences.org/reviewed-preprints/87055v2) accepted by *eLife*. Collaboration Tianhao Chu." 
+  - date: "2023-09"
+    text: "[Paper](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01296-4) accepted by *Current Biology*. See the news from [Alzheimer's Research UK](https://www.alzheimersresearchuk.org/news/new-study-suggests-navigation-difficulties-could-be-an-early-sign-of-alzheimers/). Collaboration with [Andrea Castegnaro](https://profiles.ucl.ac.uk/56038-andrea-castegnaro)"    
+  - date: "2022-06"
+    text: "Talk at the 4th Chinese Computational & Cognitive Neuroscience Conference, Virtual."   
+   
+---

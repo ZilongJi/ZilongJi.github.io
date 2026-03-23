@@ -1,0 +1,38 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="mw8 center ph3 ph4-ns pv5">
+    <header class="mb4">
+      <h1 class="f2 f1-ns athelas mt0 mb2">
+        {{ .Title }}
+      </h1>
+    </header>
+
+    <style>
+      .publications-list li > strong:first-of-type,
+      .publications-list li p > strong:first-of-type,
+      .publications-list p > strong:first-of-type {
+        display: block;
+        margin-bottom: 0.2rem;
+      }
+
+      .publications-list li p > em:first-of-type,
+      .publications-list p > em:first-of-type {
+        display: inline-block;
+        margin-top: 0.2rem;
+      }
+
+      .publications-list li p > em:first-of-type::before,
+      .publications-list p > em:first-of-type::before {
+        content: "";
+        display: block;
+      }
+    </style>
+
+    <section class="publications-list nested-copy-line-height lh-copy serif f5 mid-gray">
+      {{ .Content }}
+    </section>
+  </article>
+{{ end }}

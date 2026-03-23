@@ -1,0 +1,41 @@
+{{ define "header" }}
+  {{ partials.Include "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="mw8 center ph3 ph4-ns pv5">
+    <style>
+      .research-media-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        margin: 1.5rem 0 2.5rem;
+      }
+
+      .research-media-card {
+        flex: 1 1 320px;
+      }
+
+      .research-media-card-image {
+        flex: 0.25 1 190px;
+      }
+
+      .research-media-card-video {
+        flex: 1.6 1 550px;
+      }
+
+      .research-media {
+        display: block;
+        width: 100%;
+        height: auto;
+        background: #fff;
+        border-radius: 0.5rem;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+      }
+    </style>
+
+    <section class="nested-copy-line-height lh-copy serif f4 mid-gray">
+      {{ .Content }}
+    </section>
+  </article>
+{{ end }}
