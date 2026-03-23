@@ -1,3 +1,18 @@
+{{ define "header" }}
+  <header>
+    <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
+      {{ partials.Include "site-navigation.html" . }}
+      {{ with .Params.description }}
+        <div class="tc-l pv3 ph3 ph4-ns">
+          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt0 mb4">
+            {{ . }}
+          </h2>
+        </div>
+      {{ end }}
+    </div>
+  </header>
+{{ end }}
+
 {{ define "main" }}
   <article class="mw8 center ph3 ph4-ns pv5">
     {{ $aboutPage := site.GetPage "/about" }}

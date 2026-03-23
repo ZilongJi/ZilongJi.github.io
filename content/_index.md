@@ -2,7 +2,7 @@
 title: "Zilong Ji"
 date: 2026-03-21
 draft: false
-description: "Academic website of Zilong Ji, a postdoctoral researcher at UCL working on computational neuroscience, spatial navigation, episodic memory, and brain-inspired AI."
+description: ""
 news:
   - date: "2026-03"
     text: "4 posters presented at Cosyne 2026."
