@@ -7,4 +7,4 @@ layout: "cv"
 
 You can view or download my CV here:
 
-[Download CV](/files/ZilongJi_CV.pdf)
+[Download CV](/files/ZilongJi_CV_2026.pdf)
