@@ -3,6 +3,7 @@ title: "Research"
 date: 2026-03-21
 draft: false
 layout: "research"
+description: "Research by Zilong Ji on computational neuroscience, theta sweeps, hippocampal and entorhinal circuits, virtual reality experiments, and brain-inspired AI."
 ---
 
 ## Computational Neuroscience

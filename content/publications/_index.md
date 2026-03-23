@@ -2,6 +2,7 @@
 title: "Publications"
 date: 2026-03-20
 draft: false
+description: "Selected publications and preprints by Zilong Ji in computational neuroscience, hippocampal dynamics, path integration, and brain-inspired machine learning."
 featured_publications:
   - title: "Dorsoventral gradient of theta sweeps in medial entorhinal cortex."
     authors: "**Ji, Z.\\***, Zhang, H.\\*, Stonis, R., & Burgess, N."

@@ -2,6 +2,14 @@ baseURL = 'https://ZilongJi.github.io/'
 languageCode = 'en-gb'
 title = 'Zilong Ji'
 theme = 'ananke'
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
+
+[params]
+  author = 'Zilong Ji'
+  description = 'Academic website of Zilong Ji, postdoctoral researcher at UCL working on computational neuroscience, spatial navigation, episodic memory, and brain-inspired AI.'
+  images = ['/images/profile_photo.png']
+  googleSiteVerification = ''
 
 [markup]
   [markup.goldmark]

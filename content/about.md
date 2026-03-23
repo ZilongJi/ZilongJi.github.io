@@ -5,6 +5,7 @@ draft: false
 layout: "about"
 profile_image: "/images/profile_photo.png"
 profile_image_alt: "Portrait of Zilong Ji"
+description: "About Zilong Ji, postdoctoral researcher at UCL studying computational neuroscience, memory, navigation, and neural algorithms."
 ---
 
 I am currently a postdoctoral researcher working with [Neil Burgess](https://www.ucl.ac.uk/brain-sciences/icn/research/research-groups/space-memory) at UCL. I completed my PhD in computational neuroscience and deep learning at Beijing Normal University under the supervision of [Si Wu](https://www.psy.pku.edu.cn/english/people/faculty/professor/wusi/index.htm). Before that, I received a BA in Applied Mathematics from Xiamen University. In 2021, I moved to UCL for postdoctoral training.
