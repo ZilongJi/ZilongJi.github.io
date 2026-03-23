@@ -42,8 +42,29 @@ featured_publications:
     authors: "**Ji, Z.\\***, Chu, T.\\*, Wu, S., & Burgess, N."
     venue: "*Current Biology*, 2025"
     pdf: "/files/Sweeps_2025_Ji.pdf"
-    code: ""
+    code: "https://github.com/ZilongJi/ThetaSweepModelling"
     image: "/images/Sweeps_2025_Ji.jpg"
+    image_width: "200px" 
+  - title: "Firing rate adaptation affords place cell theta sweeps, phase precession, and procession."
+    authors: "Chu, T.\\*, **Ji, Z.\\***, Zuo, J., Mi, Y., Zhang, W.H., Huang, T., Bush, D., Burgess, N. and Wu, S."
+    venue: "*Elife*, 2024"
+    pdf: "/files/FRA_2024_Chu.pdf"
+    code: ""
+    image: "/images/FRA_2024_Chu.jpg"
+    image_width: "200px" 
+  - title: "Overestimation in angular path integration precedes Alzheimer’s dementia."
+    authors: "Castegnaro, A.\\*, **Ji, Z.\\***, Rudzka, K., Chan, D. and Burgess, N."
+    venue: "*Current Biology*, 2023"
+    pdf: "/files/GLAMPI_2023_Andrea.pdf"
+    code: "https://zenodo.org/records/8253734"
+    data: "https://zenodo.org/records/8253734"
+    image: "/images/GLAMPI_2023_Andrea.jpg"
+    image_width: "200px" 
+  - title: "Noisy adaptation generates Levy flights in attractor neural networks."
+    authors: "Dong, X., Chu, T., Huang, T., **Ji, Z.#**, & Wu, S.# "
+    venue: "*Advances in Neural Information Processing Systems (NeurIPS)*, 2021"
+    pdf: "/files/Levy_2021_Dong.pdf"
+    image: "/images/Levy_2021_Dong.jpg"
     image_width: "200px" 
 ---
 
@@ -90,9 +111,9 @@ Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zh
 ## 2023
 
 - **Overestimation in angular path integration precedes Alzheimer's dementia.** Castegnaro, A.\*, **Ji, Z.\***, Rudzka, K., Chan, D., & Burgess, N. *Current Biology*, 33(21), 4650-4661, 2023.
-  [PDF](/files/GLAMPI_2023_Andrea.pdf) 
+  [PDF](/files/GLAMPI_2023_Andrea.pdf) | [code](https://zenodo.org/records/8253734) | [data](https://zenodo.org/records/8253734)
 - **Visual information processing through the interplay between fine and coarse signal pathways.** Zou, X.\*, **Ji, Z.\***, Zhang, T., Huang, T., & Wu, S. *Neural Networks*, 166, 692-703, 2023.
-  [PDF](/files/DualPathway_2023_Zou.pdf) | [code](https://zenodo.org/records/8253734) | [data](https://zenodo.org/records/8253734)
+  [PDF](/files/DualPathway_2023_Zou.pdf) 
 
 ## 2022
 
@@ -105,6 +126,7 @@ Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zh
 ## 2021
 
 - **Noisy adaptation generates Levy flights in attractor neural networks.** Dong, X., Chu, T., Huang, T., **Ji, Z.#**, & Wu, S.# *Advances in Neural Information Processing Systems (NeurIPS)*, 34, 16791-16804, 2021.
+  [PDF](/files/Levy_2021_Dong.pdf)
 
 - **A just-in-time compilation approach for neural dynamics simulation.** Wang, C., Jiang, Y., Liu, X., Lin, X., Zou, X., **Ji, Z.**, & Wu, S. *Neural Information Processing: 28th International Conference, ICONIP 2021*, 15-26, 2021.
 
