@@ -41,3 +41,9 @@ disableKinds = ['taxonomy', 'term']
     name = "CV"
     pageRef = "/cv"
     weight = 4
+
+  [[menus.main]]
+    identifier = "contact"
+    name = "Contact Me"
+    pageRef = "/contact"
+    weight = 5
