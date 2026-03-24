@@ -27,7 +27,7 @@ news:
   - date: "2024-08"
     text: "[Paper](https://www.cell.com/current-biology/fulltext/S0960-9822(24)01174-6?uuid=uuid%3A47a8abd3-bd6d-4c23-a93c-e7f26e5af58e) accepted by *Current Biology*. An accompanying commentary is available [here](https://www.cell.com/current-biology/fulltext/S0960-9822(24)01228-4)." 
   - date: "2024-01"
-    text: "[Paper](https://elifesciences.org/reviewed-preprints/87055v2) accepted by *eLife*. Collaboration Tianhao Chu." 
+    text: "[Paper](https://elifesciences.org/reviewed-preprints/87055v2) accepted by *eLife*. Collaboration with Tianhao Chu." 
   - date: "2023-09"
     text: "[Paper](https://www.cell.com/current-biology/fulltext/S0960-9822(23)01296-4) accepted by *Current Biology*. See the news from [Alzheimer's Research UK](https://www.alzheimersresearchuk.org/news/new-study-suggests-navigation-difficulties-could-be-an-early-sign-of-alzheimers/). Collaboration with [Andrea Castegnaro](https://profiles.ucl.ac.uk/56038-andrea-castegnaro)"    
   - date: "2022-06"
