@@ -123,6 +123,7 @@ Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zh
 - **Adaptation accelerating sampling-based bayesian inference in attractor neural networks.** Dong, X., **Ji, Z.**, Chu, T., Huang, T., Zhang, W., & Wu, S. *Advances in Neural Information Processing Systems (NeurIPS)*, 35, 21534-21547, 2022.
 
 - **Neural feedback facilitates rough-to-fine information retrieval.** Liu, X., Zou, X., **Ji, Z.**, Tian, G., Mi, Y., Huang, T., Wong, K.M. & Wu, S. *Neural Networks*, 151, 349-364, 2022.
+  [PDF](/files/Pushpull_2022_Liu.pdf) 
 
 ## 2021
 
