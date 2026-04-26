@@ -8,7 +8,7 @@ disableKinds = ['taxonomy', 'term']
 [params]
   author = 'Zilong Ji'
   description = 'Academic website of Zilong Ji, postdoctoral researcher at UCL working on computational neuroscience, spatial navigation, episodic memory, and brain-inspired AI.'
-  images = ['/images/profile_photo.png']
+  images = ['/images/profile_photo2.png']
   googleSiteVerification = ''
 
 [markup]
