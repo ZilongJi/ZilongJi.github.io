@@ -134,13 +134,14 @@ Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zh
   [PDF](/files/Levy_2021_Dong.pdf)
 
 - **A just-in-time compilation approach for neural dynamics simulation.** Wang, C., Jiang, Y., Liu, X., Lin, X., Zou, X., **Ji, Z.**, & Wu, S. *Neural Information Processing: 28th International Conference, ICONIP 2021*, 15-26, 2021.
+  [PDF](/files/BrainPy_2021_Wang.pdf)
 
 - **A brain-inspired computational model for spatio-temporal information processing.** Lin, X., Zou, X., **Ji, Z.**, Huang, T., Wu, S., & Mi, Y. *Neural Networks*, 143, 74-87, 2021.
   [PDF](/files/Gait_2021_Lin.pdf)
 
 ## 2020
 
-- **.*An attention-driven two-stage clustering method for unsupervised person re-identification* **Ji, Z.**, Zou, X., Lin, X., Liu, X., Huang, T., & Wu, S. *Computer Vision - ECCV 2020*, 20-36, 2020.
+- **An attention-driven two-stage clustering method for unsupervised person re-identification** **Ji, Z.**, Zou, X., Lin, X., Liu, X., Huang, T., & Wu, S. *Computer Vision - ECCV 2020*, 20-36, 2020.
   [PDF](/files/ReID_2020_Ji.pdf)
 
 - **Unsupervised few-shot feature learning via self-supervised training.** **Ji, Z.**, Zou, X., Huang, T., & Wu, S. *Frontiers in Computational Neuroscience*, 14, 83, 2020.
