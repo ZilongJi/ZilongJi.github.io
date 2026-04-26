@@ -3,7 +3,7 @@ title: "About"
 date: 2026-03-20
 draft: false
 layout: "about"
-profile_image: "/images/profile_photo.png"
+profile_image: "/images/profile_photo2.png"
 profile_image_alt: "Portrait of Zilong Ji"
 description: "About Zilong Ji, postdoctoral researcher at UCL studying computational neuroscience, memory, navigation, and neural algorithms."
 ---

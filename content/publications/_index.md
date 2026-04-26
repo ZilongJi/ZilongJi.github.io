@@ -119,8 +119,11 @@ Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zh
 ## 2022
 
 - **Oscillatory tracking of continuous attractor neural networks account for phase precession and procession of hippocampal place cells.** Chu, T.\*, **Ji, Z.\***, Zuo, J., Zhang, W., Huang, T., Mi, Y., & Wu, S. *Advances in Neural Information Processing Systems (NeurIPS)*, 35, 33159-33172, 2022.
+  [PDF](/files/Phaseprecession_2022_Chu.pdf) 
 
 - **Adaptation accelerating sampling-based bayesian inference in attractor neural networks.** Dong, X., **Ji, Z.**, Chu, T., Huang, T., Zhang, W., & Wu, S. *Advances in Neural Information Processing Systems (NeurIPS)*, 35, 21534-21547, 2022.
+  [PDF](/files/Sampling_2022_Dong.pdf) 
+
 
 - **Neural feedback facilitates rough-to-fine information retrieval.** Liu, X., Zou, X., **Ji, Z.**, Tian, G., Mi, Y., Huang, T., Wong, K.M. & Wu, S. *Neural Networks*, 151, 349-364, 2022.
   [PDF](/files/Pushpull_2022_Liu.pdf) 
@@ -133,23 +136,30 @@ Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zh
 - **A just-in-time compilation approach for neural dynamics simulation.** Wang, C., Jiang, Y., Liu, X., Lin, X., Zou, X., **Ji, Z.**, & Wu, S. *Neural Information Processing: 28th International Conference, ICONIP 2021*, 15-26, 2021.
 
 - **A brain-inspired computational model for spatio-temporal information processing.** Lin, X., Zou, X., **Ji, Z.**, Huang, T., Wu, S., & Mi, Y. *Neural Networks*, 143, 74-87, 2021.
+  [PDF](/files/Gait_2021_Lin.pdf)
 
 ## 2020
 
-- **An attention-driven two-stage clustering method for unsupervised person re-identification.** **Ji, Z.**, Zou, X., Lin, X., Liu, X., Huang, T., & Wu, S. *Computer Vision - ECCV 2020*, 20-36, 2020.
+- **.*An attention-driven two-stage clustering method for unsupervised person re-identification* **Ji, Z.**, Zou, X., Lin, X., Liu, X., Huang, T., & Wu, S. *Computer Vision - ECCV 2020*, 20-36, 2020.
+  [PDF](/files/ReID_2020_Ji.pdf)
 
 - **Unsupervised few-shot feature learning via self-supervised training.** **Ji, Z.**, Zou, X., Huang, T., & Wu, S. *Frontiers in Computational Neuroscience*, 14, 83, 2020.
-
+  [PDF](/files/Fewshot_2020_Ji.pdf)
 ## 2019
 
 - **Push-pull feedback implements hierarchical information retrieval efficiently.** Liu, X., Zou, X., **Ji, Z.**, Tian, G., Mi, Y., Huang, T., Wong, K.M. & Wu, S. *Advances in Neural Information Processing Systems (NeurIPS)*, 32, 2019.
-
+  [PDF](/files/Pushpull_2019_Liu.pdf) 
 ## 2018
 
 - **Learning, storing, and disentangling correlated patterns in neural networks.** Zou, X.\*, **Ji, Z.\***, Liu, X., Huang, T., Mi, Y., Wang, D., & Wu, S. *Neural Information Processing: 25th International Conference, ICONIP 2018*, 506-514, 2018. Best paper award.
+  [PDF](/files/Learning_2018_Zou.pdf) 
 
 - **Neural information processing in hierarchical prototypical networks.** **Ji, Z.**, Zou, X., Liu, X., Huang, T., Mi, Y., & Wu, S. *Neural Information Processing: 25th International Conference, ICONIP 2018*, 603-611, 2018.
+  [PDF](/files/HPTN_2018_Ji.pdf) 
+
 
 ## 2017
 
 - **Learning a continuous attractor neural network from real images.** Zou, X.\*, **Ji, Z.\***, Liu, X., Mi, Y., Wong, K. M., & Wu, S. *Neural Information Processing: 24th International Conference, ICONIP 2017*, 622-631, 2017.
+  [PDF](/files/LearningCANN_2017_Zou.pdf) 
+
