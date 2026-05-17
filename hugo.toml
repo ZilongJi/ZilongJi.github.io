@@ -43,7 +43,13 @@ disableKinds = ['taxonomy', 'term']
     weight = 4
 
   [[menus.main]]
+    identifier = "resources"
+    name = "Resources"
+    pageRef = "/resources"
+    weight = 5
+
+  [[menus.main]]
     identifier = "contact"
     name = "Contact Me"
     pageRef = "/contact"
-    weight = 5
+    weight = 6
