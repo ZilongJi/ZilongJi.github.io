@@ -4,6 +4,10 @@ date: 2026-03-21
 draft: false
 description: ""
 news:
+  - date: "2026-07"
+    text: "[Paper](https://www.biorxiv.org/content/10.64898/2026.03.08.710351v1.abstract) accepted by *Science Advances*."
+  - date: "2026-06"
+    text: "[Paper](https://www.nature.com/articles/s41593-026-02365-2) accepted by *Nature Neuroscience*. Collaboration with Changmin Yu."
   - date: "2026-03"
     text: "4 posters presented at Cosyne 2026."
   - date: "2026-02"
