@@ -4,6 +4,10 @@ date: 2026-03-21
 draft: false
 description: ""
 news:
+  - date: "2026-08"
+    text: "Together with [Kevin Wenliang Li](https://kevinwli.net/), we got $5,000 support from Google DeepMind for NeuroAI annual meeting 2026!"  
+  - date: "2026-08"
+    text: "Together with [Jesse Geerts](https://jessegeerts.github.io/about/), we got £5,000 support from [Callosum](https://www.callosum.com/) for NeuroAI annual meeting 2026!"    
   - date: "2026-07"
     text: "[Paper](https://www.biorxiv.org/content/10.64898/2026.03.08.710351v1.abstract) accepted by *Science Advances*."
   - date: "2026-06"

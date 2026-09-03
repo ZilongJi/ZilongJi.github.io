@@ -88,7 +88,6 @@ Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zh
   [PDF](/files/Brainscale_2026_Wang.pdf) | [Code](https://github.com/chaobrain/braintrace)
 
 
-
 ## 2025
 
 - **Phase Precession Relative to Turning Angle in Theta-Modulated Head Direction Cells.** **Ji, Z.\***, Lomi, E.\*, Jeffery, K., Mitchell, A. S., & Burgess, N. *Hippocampus*, 35(2), e70008, 2025.
