@@ -71,8 +71,15 @@ featured_publications:
 
 ## 2026
 
-- **Dorsoventral gradient of theta sweeps in medial entorhinal cortex.** **Ji, Z.\***, Zhang, H.\*, Stonis, R., & Burgess, N. *bioRxiv*, 2026. Under review.
-  [PDF](/files/Topography_2026_Ji.pdf) 
+- **Systematic microcircuit reconfigurations underlie early experience-induced visual cortical plasticity.** 
+Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zhang, X. *neuroscience bulletin*, 2026.
+  [PDF](/files/Synapse_2025_Yao.pdf) | [code](https://github.com/ZilongJi/SynReconfigNet)
+
+- **Dorsoventral gradient of theta sweeps in medial entorhinal cortex.** **Ji, Z.\***, Zhang, H.\*, Marshall, C., Stonis, R., & Burgess, N. *Science Advances*, 2026.
+  [PDF](/files/Topography_2026_Ji.pdf) | [code](https://github.com/ZilongJi/TopographyThetaSweeps)
+
+- **Hippocampal theta sweeps indicate goal direction.** Yu, C., **Ji, Z.**, Ormond, J., O'Keefe, J., & Burgess, N. *Nature Neuroscience*, 2026.
+  [PDF](/files/Goaldirect_2026_Yu.pdf) | [code](https://github.com/changmin-yu/goal_directed_theta_sweeps_honeycomb_maze)
 
 - **Dynamical modulation of hippocampal replay through firing rate adaptation.** **Ji, Z.\***, Chu, T.\*, Dong, X.\*, Yu, C., Bush, D., Burgess, N., \& Wu, S. *Nature Communications*, 2026.
   [PDF](/files/Replay_2026_Ji.pdf) | [Code](https://github.com/ZilongJi/AdaptiveAttractorForSequences)
@@ -92,15 +99,9 @@ featured_publications:
 
 - **Efficient Spatial Learning in the Hippocampus via Left-Right Theta Sweeps in the Entorhinal Cortex.** Marshall, C.\*, **Ji, Z.\***, & Burgess, N. *Cognitive Computational Neuroscience Conference (CCN)*, 2025.
 
-- **Hippocampal theta sweeps indicate goal direction.** Yu, C., **Ji, Z.**, Ormond, J., O'Keefe, J., & Burgess, N. *bioRxiv*, 2025-08. Under review.
-  [PDF](/files/Goaldirect_2025_Yu.pdf) 
-
 - **Unfolding the Black Box of Recurrent Neural Networks for Path Integration.** Chu, T., Wu, Y., Burgess, N., **Ji, Z.**, & Wu, S. *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
   [PDF](/files/Bandcell_2025_Chu.pdf) | [Code](https://github.com/yuling-wu/hierarchy_band_grid) | [Poster](/images/bandcells_poster.png)
 
-- **Systematic microcircuit reconfigurations underlie early experience-induced visual cortical plasticity.** 
-Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zhang, X. *bioRxiv*, 2025: 2025-12.
-  [PDF](/files/Synapse_2025_Yao.pdf) 
 
 ## 2024
 
