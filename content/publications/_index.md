@@ -5,12 +5,19 @@ draft: false
 description: "Selected publications and preprints by Zilong Ji in computational neuroscience, hippocampal dynamics, path integration, and brain-inspired machine learning."
 featured_publications:
   - title: "Dorsoventral gradient of theta sweeps in medial entorhinal cortex."
-    authors: "**Ji, Z.\\***, Zhang, H.\\*, Stonis, R., & Burgess, N."
-    venue: "*bioRxiv*, 2026-03. Under review."
+    authors: "**Ji, Z.\\***, Zhang, H.\\*, Marshall, C., Stonis, R., & Burgess, N."
+    venue: "*Science Advances*, 2026"
     pdf: "/files/Topography_2026_Ji.pdf"
-    # code: "#"
+    code: "https://github.com/ZilongJi/TopographyThetaSweeps"
     image: "/images/Topography_2026_Ji.jpg"
     image_width: "200px" 
+  - title: "Hippocampal theta sweeps indicate goal direction."
+    authors: "Yu, C., **Ji, Z.**, Ormond, J., O'Keefe, J., & Burgess, N."
+    venue: "*Nature Neuroscience*, 2026"
+    pdf: "/files/Goaldirect_2026_Yu.pdf"
+    code: "https://github.com/changmin-yu/goal_directed_theta_sweeps_honeycomb_maze"
+    image: "/images/Goaldirect_2025_Yu.jpg"
+    image_width: "200px"
   - title: "Dynamical modulation of hippocampal replay through firing rate adaptation."
     authors: "**Ji, Z.\\***, Chu, T.\\*, Dong, X.\\*, Yu, C., Bush, D., Burgess, N., & Wu, S."
     venue: "*Nature Communications*, 2026."
@@ -18,13 +25,6 @@ featured_publications:
     code: "https://github.com/ZilongJi/AdaptiveAttractorForSequences"
     image: "/images/Replay_2026_Ji.jpg"
     image_width: "200px" 
-  - title: "Hippocampal theta sweeps indicate goal direction."
-    authors: "Yu, C., **Ji, Z.**, Ormond, J., O'Keefe, J., & Burgess, N."
-    venue: "*bioRxiv*, 2025-08. Under review."
-    pdf: "/files/Goaldirect_2025_Yu.pdf"
-    code: "#"
-    image: "/images/Goaldirect_2025_Yu.jpg"
-    image_width: "200px"
   - title: "Unfolding the Black Box of Recurrent Neural Networks for Path Integration."
     authors: "Chu, T., Wu, Y., Burgess, N., **Ji, Z.**, & Wu, S."
     venue: "*NeurIPS*, 2025"
@@ -72,7 +72,7 @@ featured_publications:
 ## 2026
 
 - **Systematic microcircuit reconfigurations underlie early experience-induced visual cortical plasticity.** 
-Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zhang, X. *neuroscience bulletin*, 2026.
+Yao, L., Shang, Z., **Ji, Z.**, Meng, M., Wang, F., Gu, X., He, M., Wu, S., & Zhang, X. *Neuroscience Bulletin*, 2026.
   [PDF](/files/Synapse_2025_Yao.pdf) | [code](https://github.com/ZilongJi/SynReconfigNet)
 
 - **Dorsoventral gradient of theta sweeps in medial entorhinal cortex.** **Ji, Z.\***, Zhang, H.\*, Marshall, C., Stonis, R., & Burgess, N. *Science Advances*, 2026.
