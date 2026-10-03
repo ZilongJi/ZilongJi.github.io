@@ -4,6 +4,8 @@ date: 2026-03-21
 draft: false
 description: ""
 news:
+  - date: "2026-09"
+    text: "Paper accepted by *NeurIPS*."
   - date: "2026-08"
     text: "Together with [Kevin Wenliang Li](https://kevinwli.net/), we got $5,000 support from Google DeepMind for NeuroAI annual meeting 2026!"  
   - date: "2026-08"
